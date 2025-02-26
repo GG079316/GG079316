@@ -24,7 +24,7 @@ I’m a Linux enthusiast transitioning into the exciting world of **DevOps**! Wi
 
 
 ## 📫 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gitanjali-garg-948533141/))   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gitanjali-garg-948533141/)  
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:garggitanjali0307@gmail.com)  
 
 
